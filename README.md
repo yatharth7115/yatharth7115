@@ -45,9 +45,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yatharth7115&theme=dark" alt="GitHub Streak" />
 </p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yatharth7115/yatharth7115/output/github-contribution-grid-snake.svg" alt="github contribution snake" />
-</p>
 
 ---
 
