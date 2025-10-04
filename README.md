@@ -1,32 +1,4 @@
-<!-- Header -->
-
-<div align="center">
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1JxM/giphy.gif" width="100"/>
-<h1>Hi, I'm Yatharth Gupta 👋</h1>
-<h3>An Electrical Engineering student at IIT Patna with a passion for AI and Machine Learning from India 🇮🇳</h3>
-</div>
-
-👨‍💻 About Me
-🔭 I’m currently building fun and interactive chatbots and exploring the capabilities of Large Language Models (LLMs).
-
-🌱 I’m currently diving deep into Deep Learning architectures, LLM Optimization, and System Design.
-
-👯 I’m looking to collaborate on impactful projects involving Machine Learning, Data Science, and AI-powered Web Applications.
-
-💬 Ask me about Python, C++, Data Structures, Machine Learning, and Prompt Engineering.
-
-📫 How to reach me: yatharthbank7@gmail.com
-
-😄 Pronouns: He/Him
-
-⚡ Fun fact: I'm a State-level Abacus Champion!
-
-🛠️ Languages and Tools
-<p align="center">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/></a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
+flow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/></a>
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
@@ -63,3 +35,5 @@
 </a>
 <a href="https://www.google.com/search?q=https://github.com/yatharth7115">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub"/>
+</a>
+</p>
