@@ -51,7 +51,7 @@
 ### 🔗 Connect with Me
 
 <p align="center">
-  <a href="[YOUR_LINKEDIN_PROFILE_URL]">
+  <a href="https://www.linkedin.com/in/yatharth-gupta-46796a290/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/yatharth7115">
