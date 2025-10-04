@@ -13,6 +13,7 @@
 - 💬 I’m looking to collaborate on impactful projects involving **Machine Learning**, **Data Science**, and **AI-powered Web Applications**.
 - 📫 You can reach me at: **yatharthbank7@gmail.com**
 - ⚡ Fun fact: I'm a **State-level Abacus Champion**!
+- 💼 Check out my work on my [Portfolio Website](https://portfolio-opal-gamma-3je1o07tzo.vercel.app/).
 
 ---
 
