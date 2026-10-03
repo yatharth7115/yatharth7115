@@ -17,6 +17,18 @@
 
 ---
 
+### Featured project
+
+**[FinSpark — Financial Integration Workbench](https://github.com/Adwik1-2/FinSpark)**
+
+A finance-focused workbench for extracting document requirements, inspecting API adapter mappings, and simulating integration workflows. Built with React, TypeScript and a FastAPI processing service, with an emerald interface and a custom chart cursor.
+
+[Explore the source](https://github.com/Adwik1-2/FinSpark) · [Hosted preview (access restricted)](https://finspark-integration-workbench.y63753374.chatgpt.site/)
+
+Adapter execution is simulated; the demo service uses temporary accounts and document history.
+
+---
+
 ### 🛠️ Languages and Tools
 
 <p align="center">
